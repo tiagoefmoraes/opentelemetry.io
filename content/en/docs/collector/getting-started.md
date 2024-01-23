@@ -74,7 +74,7 @@ To follow this tutorial you need the following
       Status message :
    ```
 
-4. Open `http://localhost:55679/debug/tracez` in your browser and select one of
+4. Open `http://0.0.0.0:55679/debug/tracez` in your browser and select one of
    the samples in the table to see the traces you've just generated.
 
 ## Next steps
